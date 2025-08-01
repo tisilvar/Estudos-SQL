@@ -1,0 +1,5 @@
+# Trata todos os arquivos .sql como linguagem SQL (útil para garantir a detecção)
+*.sql linguist-language=SQL
+
+# Ignora o arquivo README para as estatísticas de linguagem
+README.md linguist-documentation
