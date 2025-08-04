@@ -29,9 +29,17 @@ SELECT * FROM funcionarios WHERE (departamento = 'Lar' and sexo = 'Feminino') OR
 
 /* Traga os funcionários do sexo masculino ou os funcionários que trabalhem no setor Jardim */
 
-SELECT funcionarios FROM 
-
+SELECT * FROM funcionarios WHERE sexo = 'Masculino' OR departamento = 'Jardim'
 
 
 /* Como estamos trabalhando com AND, colocamos o departamento primeiro 
 depois ele irá checar a segunda condição um número menor de vezes */
+
+--FILTRANDO VALORES NULOS (IS NULL / IS NOT NULL)
+SELECT nome, sexo, endereco
+FROM cliente
+WHERE email IS NULL
+
+SELECT nome, sexo, endereco
+FROM cliente
+WHERE email IS NOT NULL
