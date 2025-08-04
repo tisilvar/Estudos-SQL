@@ -11,6 +11,7 @@ O conteúdo está dividido em pastas que representam os níveis de proficiência
 Nesta seção, você encontrará meus primeiros projetos e exercícios, focados nos fundamentos do SQL.
 
 * **[PROJETO_01_Livraria](./01_Iniciante/PROJETO_01_Livraria/)**: Meu primeiro projeto prático. Envolve a criação de uma tabela, inserção de dados e a execução de consultas básicas com `SELECT`, `WHERE`, `AND`/`OR` e aliases.
+* **[PROJETO_02_Funcionarios](./01_Iniciante/PROJETO_02_Funcionarios/)**: Segundo projeto, avançando para consultas de **análise e agregação**. Explora o uso de `GROUP BY` para agrupar dados, funções como `COUNT` e `AVG` para gerar resumos, e `ORDER BY` para classificar os resultados.
 
 ### nivel 2️⃣ - Intermediário (Em Breve)
 
