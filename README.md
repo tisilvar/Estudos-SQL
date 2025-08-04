@@ -17,8 +17,8 @@ O conteúdo está dividido em pastas que representam os níveis de proficiência
 
 | Projeto | Descrição | Tecnologias / Comandos Principais |
 | :--- | :--- | :--- |
-| **[PROJETO_01_Livraria](./01_Iniciante/PROJETO_01_Livraria/)** | Meu primeiro projeto prático, focado nos fundamentos da linguagem para criar e consultar uma base de dados. | `CREATE TABLE`, `INSERT INTO`, `SELECT`, `WHERE`, `AND`/`OR`, `Alias (AS)` |
-| **[PROJETO_02_Funcionarios](./01_Iniciante/PROJETO_02_Funcionarios/)** | Avanço para consultas de análise, com o objetivo de resumir e extrair insights dos dados, não apenas listá-los. | `GROUP BY`, `ORDER BY`, `IN`, `DISTINCT`, Funções de Agregação (`COUNT`, `AVG`, `SUM`, `MAX`, `MIN`) |
+| **[PROJETO_01_Livraria](./sql/PROJETO_01_Livraria/)** | Meu primeiro projeto prático, focado nos fundamentos da linguagem para criar e consultar uma base de dados. | `CREATE TABLE`, `INSERT INTO`, `SELECT`, `WHERE`, `AND`/`OR`, `Alias (AS)` |
+| **[PROJETO_02_Funcionarios](./sql/PROJETO_02_Funcionarios/)** | Avançando dos fundamentos para a **análise de dados**, este projeto foca em como resumir e agrupar informações para extrair insights. | `GROUP BY`, `ORDER BY`, `IN`, `DISTINCT`, Funções de Agregação (`COUNT`, `AVG`), `SQLite`, `Terminal (CLI)` |
 
 </details>
 
