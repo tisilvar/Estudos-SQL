@@ -4,19 +4,38 @@ Bem-vindo! Este repositório é o meu diário de bordo e portfólio de estudos n
 
 ## 📁 Estrutura do Repositório
 
-O conteúdo está dividido em pastas que representam os níveis de proficiência que estou desenvolvendo.
+O conteúdo está dividido em pastas que representam os níveis de proficiência que estou desenvolvendo. Clique em cada nível para ver os projetos detalhados.
 
-###  nivel 1️⃣ - Iniciante
+<br>
 
-Nesta seção, você encontrará meus primeiros projetos e exercícios, focados nos fundamentos do SQL.
+---
 
-* **[PROJETO_01_Livraria](./01_Iniciante/PROJETO_01_Livraria/)**: Meu primeiro projeto prático. Envolve a criação de uma tabela, inserção de dados e a execução de consultas básicas com `SELECT`, `WHERE`, `AND`/`OR` e aliases.
-* **[PROJETO_02_Funcionarios](./01_Iniciante/PROJETO_02_Funcionarios/)**: Segundo projeto, avançando para consultas de **análise e agregação**. Explora o uso de `GROUP BY` para agrupar dados, funções como `COUNT` e `AVG` para gerar resumos, e `ORDER BY` para classificar os resultados.
+### nivel 1️⃣ - Iniciante
+
+<details>
+<summary>Clique para ver os projetos de nível Iniciante</summary>
+
+| Projeto | Descrição | Tecnologias / Comandos Principais |
+| :--- | :--- | :--- |
+| **[PROJETO_01_Livraria](./01_Iniciante/PROJETO_01_Livraria/)** | Meu primeiro projeto prático, focado nos fundamentos da linguagem para criar e consultar uma base de dados. | `CREATE TABLE`, `INSERT INTO`, `SELECT`, `WHERE`, `AND`/`OR`, `Alias (AS)` |
+| **[PROJETO_02_Funcionarios](./01_Iniciante/PROJETO_02_Funcionarios/)** | Avanço para consultas de análise, com o objetivo de resumir e extrair insights dos dados, não apenas listá-los. | `GROUP BY`, `ORDER BY`, `IN`, `DISTINCT`, Funções de Agregação (`COUNT`, `AVG`, `SUM`, `MAX`, `MIN`) |
+
+</details>
+
+---
 
 ### nivel 2️⃣ - Intermediário (Em Breve)
 
-Aqui ficarão os projetos que envolvem conceitos mais complexos, como `JOINs`, `Subqueries` e modelagem de dados com múltiplas tabelas.
+<details>
+<summary>Clique para ver os projetos de nível Intermediário</summary>
+
+</details>
+
+---
 
 ### nivel 3️⃣ - Avançado (Em Breve)
 
-Esta seção será dedicada a tópicos avançados como `Window Functions`, otimização de performance e Stored Procedures.
+<details>
+<summary>Clique para ver os projetos de nível Avançado</summary>
+
+</details>
