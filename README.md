@@ -1,42 +1,59 @@
-# 🚀 Meu Portfólio de Estudos em SQL
-
-Bem-vindo! Este repositório é o meu diário de bordo e portfólio de estudos na linguagem SQL. Ele está organizado de forma progressiva, por nível de habilidade, para demonstrar minha evolução.
-
 ## 📁 Estrutura do Repositório
 
-O conteúdo está dividido em pastas que representam os níveis de proficiência que estou desenvolvendo. Clique em cada nível para ver os projetos detalhados.
+Este repositório é um mapa da minha jornada de aprendizado em SQL. Cada seção abaixo representa um pilar fundamental de conhecimento, construído de forma progressiva. A estrutura reflete o caminho que estou percorrendo, desde a modelagem inicial de um banco até a criação de consultas e lógicas de programação complexas.
 
 <br>
 
 ---
 
-### nivel 1️⃣ - Iniciante
+### Ⅰ - Fundamentos e Modelagem de Dados
 
 <details>
-<summary>Clique para ver os projetos de nível Iniciante</summary>
+<summary>Clique para ver os projetos desta área</summary>
 
 | Projeto | Descrição | Tecnologias / Comandos Principais |
 | :--- | :--- | :--- |
-| **[PROJETO_01_Livraria](./sql/PROJETO_01_Livraria/)** | Meu primeiro projeto prático, focado nos fundamentos da linguagem para criar e consultar uma base de dados. | `CREATE TABLE`, `INSERT INTO`, `SELECT`, `WHERE`, `AND`/`OR`, `Alias (AS)` |
-| **[PROJETO_02_Funcionarios](./sql/PROJETO_02_Funcionarios/)** | Avançando dos fundamentos para a **análise de dados**, este projeto foca em como resumir e agrupar informações para extrair insights. | `GROUP BY`, `ORDER BY`, `IN`, `DISTINCT`, Funções de Agregação (`COUNT`, `AVG`), `SQLite`, `Terminal (CLI)` |
-|**[PROJETO_03_Blog](./sql/PROJETO_03_Blog/)** | Projeto completo que demonstrou o ciclo de vida de um banco de dados, da modelagem avançada (1:N e N:M) à criação, população e extração de dados com `JOINs`. | Modelagem Relacional, `CREATE TABLE`, `INSERT INTO`, `INNER JOIN`, `LEFT JOIN`, `GROUP BY`, `COUNT()`, Chaves Compostas |
-| **[PROJETO_04_Comercio](./sql/PROJETO_04_Comercio/)** | Foco em DML e na criação de relatórios de negócio, introduzindo técnicas avançadas como **Subqueries com `NOT IN`** para resolver filtros de exclusão complexos. | `UPDATE`, `DELETE`, `Múltiplos JOINs`, `WHERE`, `GROUP BY`, `COUNT()`, `IN`, `NOT IN`,|
-</details>
-
----
-
-### nivel 2️⃣ - Intermediário (Em Breve)
-
-<details>
-<summary>Clique para ver os projetos de nível Intermediário</summary>
+| **[PROJETO_01_Livraria](./sql/PROJETO_01_Livraria/)** | Projeto inicial focado nos fundamentos da linguagem para criar tabelas e inserir dados. | `CREATE TABLE`, `INSERT INTO`, `Tipos de Dados` |
+| **[PROJETO_03_Blog](./sql/PROJETO_03_Blog/)** | Estudo de caso completo sobre modelagem relacional, implementando relações 1:N e N:M (com tabela de junção) para criar um esquema de banco de dados robusto. | `Modelagem Relacional (1:N, N:M)`, `Chaves Primárias (Simples e Composta)`, `Chaves Estrangeiras` |
 
 </details>
 
 ---
 
-### nivel 3️⃣ - Avançado (Em Breve)
+### Ⅱ - Consultas e Análise de Dados (DQL)
 
 <details>
-<summary>Clique para ver os projetos de nível Avançado</summary>
+<summary>Clique para ver os projetos desta área</summary>
+
+| Projeto | Descrição | Tecnologias / Comandos Principais |
+| :--- | :--- | :--- |
+| **[PROJETO_02_Funcionarios](./sql/PROJETO_02_Funcionarios/)** | Foco em análise de dados para extrair insights, resumindo e agrupando informações com funções de agregação. | `GROUP BY`, `ORDER BY`, `IN`, `DISTINCT`, Funções de Agregação (`COUNT`, `AVG`) |
+| **[PROJETO_04_Comercio](./sql/PROJETO_04_Comercio/)** | Criação de relatórios complexos para atender a requisitos de negócio, utilizando múltiplos `JOIN`s e técnicas avançadas de filtragem. | `Múltiplos JOINs`, `WHERE (Filtros Compostos)`, `Subqueries`, `IN`, `NOT IN`|
+
+</details>
+
+---
+
+### Ⅲ - Manipulação de Dados (DML)
+
+<details>
+<summary>Clique para ver os projetos desta área</summary>
+
+| Projeto | Descrição | Tecnologias / Comandos Principais |
+| :--- | :--- | :--- |
+| **[PROJETO_04_Comercio](./sql/PROJETO_04_Comercio/)** | Aplicação de comandos DML para alterar e remover dados de forma segura, utilizando `SELECT` para verificação prévia e a cláusula `WHERE` para garantir a precisão. | `UPDATE`, `DELETE`, `SELECT para Verificação`, `WHERE` |
+
+</details>
+
+---
+
+### Ⅳ - Programação em Banco de Dados
+
+<details>
+<summary>Clique para ver os projetos desta área</summary>
+
+| Projeto | Descrição | Tecnologias / Comandos Principais |
+| :--- | :--- | :--- |
+
 
 </details>
