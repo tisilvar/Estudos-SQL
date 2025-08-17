@@ -1,4 +1,4 @@
-## 📁 Estrutura do Repositório
+## 📁 Meu Portfólio de Estudos em SQL
 
 Este repositório é um mapa da minha jornada de aprendizado em SQL. Cada seção abaixo representa um pilar fundamental de conhecimento, construído de forma progressiva. A estrutura reflete o caminho que estou percorrendo, desde a modelagem inicial de um banco até a criação de consultas e lógicas de programação complexas.
 
