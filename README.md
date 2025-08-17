@@ -1,4 +1,12 @@
-## 📁 Meu Portfólio de Estudos em SQL
+## 🚀 Meu Portfólio de Estudos em SQL
+
+## 🛠️ Stack de Tecnologias (Atual e Futuro)
+
+* **Bancos de Dados:** `SQLite`, `MySQL`, `SQL Server`
+* **Linguagens:** `SQL`, `T-SQL`
+* **Ferramentas:** `Git`, `GitHub`, `VS Code`, `MySQL Workbench`, `StarUML`
+
+## 📁 Projetos e Competências Desenvolvidas
 
 Este repositório é um mapa da minha jornada de aprendizado em SQL. Cada seção abaixo representa um pilar fundamental de conhecimento, construído de forma progressiva. A estrutura reflete o caminho que estou percorrendo, desde a modelagem inicial de um banco até a criação de consultas e lógicas de programação complexas.
 
