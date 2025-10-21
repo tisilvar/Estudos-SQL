@@ -1,4 +1,3 @@
--- Categoria
 INSERT INTO Categoria VALUES(NULL, 'Econômico');
 INSERT INTO Categoria VALUES(NULL, 'SUV');
 INSERT INTO Categoria VALUES(NULL, 'Luxo');
