@@ -1,0 +1,30 @@
+-- Categoria
+INSERT INTO Categoria VALUES(NULL, 'Econômico');
+INSERT INTO Categoria VALUES(NULL, 'SUV');
+INSERT INTO Categoria VALUES(NULL, 'Luxo');
+
+-- Situação
+INSERT INTO Situacao VALUES(NULL, 'Disponível');
+INSERT INTO Situacao VALUES(NULL, 'Alugado');
+INSERT INTO Situacao VALUES(NULL, 'Em Manutenção');
+
+-- Cliente
+INSERT INTO Cliente VALUES('12345678901', 'Carlos Silva', '(11) 98765-4321');
+INSERT INTO Cliente VALUES('98765432109', 'Maria Oliveira', '(21) 91234-5678');
+INSERT INTO Cliente VALUES('55544433322', 'João Pereira', '(31) 95555-4444');
+
+-- Modelo
+INSERT INTO Modelo VALUES(NULL, 'Fiat Mobi');
+INSERT INTO Modelo VALUES(NULL, 'Jeep Renegade');
+INSERT INTO Modelo VALUES(NULL, 'BMW 320i');
+INSERT INTO Modelo VALUES(NULL, 'Hyundai HB20');
+
+-- Carro
+INSERT INTO Carro VALUES('ABC1D23', '2023', 1, 1, 1);
+INSERT INTO Carro VALUES('XYZ9F87', '2024', 2, 2, 1);
+INSERT INTO Carro VALUES('QWE4R56', '2025', 3, 3, 2);
+INSERT INTO Carro VALUES('GHI7J89', '2023', 4, 1, 3);
+
+-- Aluguel
+INSERT INTO Aluguel VALUES(NULL, '12345678901', 'QWE4R56', '2025-10-15', NULL, 950.00);
+INSERT INTO Aluguel VALUES(NULL, '98765432109', 'ABC1D23', '2025-09-20', '2025-09-25', 450.00);
